@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.bottom-container {
+    padding: 1%;
+}
+
+.bottom-main-content {
+    text-align: center;
+    height: 75vh;
+}
+
+.bottom-main-content > form > h3 {
+    font-size: 2rem;
+}
+
+#outlined-basic {
+    font-size: 1.4rem;
+}

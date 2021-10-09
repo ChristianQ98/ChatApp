@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.top-container {
+    max-width: 100vw !important;
+    height: 25vh;
+    padding: 2%;
+    background-color: rgb(23, 171, 230);
+}
+
+.top-main-content {
+    text-align: center;
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.top-main-content > h1 {
+    font-size: 3.8rem;
+    font-weight: 400;
+}
+
+.top-main-content > p {
+    font-size: 1.5rem;
+}
