@@ -2,6 +2,10 @@
 
 Chat Application built using React.js, Node.js, Express.js, and Socket.io
 
+## Demo
+
+https://user-images.githubusercontent.com/78188432/136850393-ec6b8fae-1f50-47dc-950d-3eb4b94381a2.mp4
+
 ## How to use
 
 To clone and run this application, you'll need Git and Node.js (which comes with npm) installed on your computer. 
